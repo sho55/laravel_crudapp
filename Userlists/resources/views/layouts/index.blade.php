@@ -7,3 +7,7 @@
 @section('content')
 ：（内容）
 @endsection
+
+@if(Session::has('message'))
+  メッセージ：{{ session('message') }}
+@endif

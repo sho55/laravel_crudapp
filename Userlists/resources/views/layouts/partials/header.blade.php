@@ -8,8 +8,8 @@
   <span class="icon-bar"></span>
   <span class="icon-bar"></span>
   </button>
-  <a class="navbar-brand" href="#">
-  <img alt="Laravel学習帳" src="/img/logo.png" style="height: 20px;">
+  <a class="navbar-brand" href="./">
+  <!-- <img alt="Laravel学習帳" src="/img/logo.png" style="height: 20px;"> -->
   </a>
   </div>
  

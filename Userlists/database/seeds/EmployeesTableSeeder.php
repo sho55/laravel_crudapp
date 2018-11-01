@@ -20,7 +20,7 @@ class StudentsTableSeeder extends Seeder
 
 
 // 挿入回数を設定する。
-      for ($i = 0; $i < 10; $i++) {
+      for ($i = 0; $i < 50; $i++) {
   // Eloquentを設定した「Employee.php」へパスを通す
         \App\Student::create([
 // 'coloum' => $faker->var();,
